@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Online Publication
 uid: 6d094c3a-332e-7764-f70a-74ead7f04258
 ---
