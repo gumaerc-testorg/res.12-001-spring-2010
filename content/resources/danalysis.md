@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains information related to danalysis: perform a dimensional\
   \ analysis.\r\n"
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/c0f35d91b35fa4c229675a3c7a1bb585_danalysis.m
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/c0f35d91b35fa4c229675a3c7a1bb585_danalysis.m
+file_size: 13207
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

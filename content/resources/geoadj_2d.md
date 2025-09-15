@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains information related to compute geostrophic adjustment
   by simple, numerical methods.    '
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/da6ee7542c8391e2200614a3c055f31c_geoadj_2d.for
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/da6ee7542c8391e2200614a3c055f31c_geoadj_2d.for
+file_size: 62113
 file_type: text/x-fortran
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

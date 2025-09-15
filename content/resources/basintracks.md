@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains information related to matlab plotting program\
   \ to plot float tracks.\r\n"
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/f2b8c8237b1fb290fbc62bc1bd1c8bf7_basintracks.m
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/f2b8c8237b1fb290fbc62bc1bd1c8bf7_basintracks.m
+file_size: 795
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

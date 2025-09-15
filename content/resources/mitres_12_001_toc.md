@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains the information related to table of contents for
   all essay files.
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/b5b25112b38a53a0490dc8b1a974a4a0_MITRES_12_001_toc.pdf
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/b5b25112b38a53a0490dc8b1a974a4a0_MITRES_12_001_toc.pdf
+file_size: 159832
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

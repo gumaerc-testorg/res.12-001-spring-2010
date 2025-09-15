@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to  gwavemovie, make a movie
   of wave fluid velocity.
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/cd1214c0554ad80058ab326f63eadf0b_gwavemovie.m
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/cd1214c0554ad80058ab326f63eadf0b_gwavemovie.m
+file_size: 2526
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

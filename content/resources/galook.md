@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains information related to read successive matrices\
   \ from disk files.\r\n"
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/d91da728555d91df6d1915b4be937f42_galook.m
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/d91da728555d91df6d1915b4be937f42_galook.m
+file_size: 6769
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to essay 1.
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/c275239236c60fd434fb8e96bb814834_MITRES_12_001_essay1.pdf
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/c275239236c60fd434fb8e96bb814834_MITRES_12_001_essay1.pdf
+file_size: 1623501
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

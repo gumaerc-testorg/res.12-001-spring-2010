@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains information related to matlab plotting program\
   \ to read successive matrices from disk files.\r\n"
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/c8f458bb20bf1bc46aae9206685100ba_basinlook.m
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/c8f458bb20bf1bc46aae9206685100ba_basinlook.m
+file_size: 1336
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

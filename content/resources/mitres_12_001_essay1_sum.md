@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information related to summary for essay 1.
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/63b092d5bd1f81011e98f99d33a43920_MITRES_12_001_essay1_sum.pdf
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/63b092d5bd1f81011e98f99d33a43920_MITRES_12_001_essay1_sum.pdf
+file_size: 281613
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

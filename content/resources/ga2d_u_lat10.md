@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource is a supporting file for essay 2.
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/3453f4482c8cae6ef6bfba0c323d441f_ga2d_u_lat10.mpg
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/3453f4482c8cae6ef6bfba0c323d441f_ga2d_u_lat10.mpg
+file_size: 604870
 file_type: video/mpeg
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

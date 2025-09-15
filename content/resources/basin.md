@@ -2,7 +2,8 @@
 content_type: resource
 description: "This resource contains information related to the main program of a\
   \ layered, primitive equation ocean model. \r\n"
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/c825b321cbbaf43597c874afa65b0a25_basin.for
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/c825b321cbbaf43597c874afa65b0a25_basin.for
+file_size: 68185
 file_type: text/x-fortran
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

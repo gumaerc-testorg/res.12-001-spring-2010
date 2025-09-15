@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information related to compute the D'Almebert
   soln for an IVP.
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/33f9a41f1ca46c5043da121796f2e83a_ftransform.m
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/33f9a41f1ca46c5043da121796f2e83a_ftransform.m
+file_size: 4320
 file_type: text/x-objcsrc
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

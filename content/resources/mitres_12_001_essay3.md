@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: 'This resource contains the information related to a coriolis tutorial. '
-file: /courses/res-12-001-topics-in-fluid-dynamics-spring-2010/32735e6132f45ad494812a89ab585301_MITRES_12_001_essay3.pdf
+file: /ol-ocw-studio-app/courses/res-12-001-topics-in-fluid-dynamics-spring-2010/32735e6132f45ad494812a89ab585301_MITRES_12_001_essay3.pdf
+file_size: 2861388
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
